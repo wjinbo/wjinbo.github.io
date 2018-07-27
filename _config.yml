@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # seo
-title:
+title:Bo'bie
 description: 
-keywords: 
-author: 
+keywords:Bo'bie,PHP,HTML5,JavaScript,Js
+author: Bo'bie
 
 # "","/blog"
 context: ""
@@ -13,7 +13,7 @@ context: ""
 ## 文章url前缀 context/自定义，下面的context为''
 permalink: /posts/:year/:month/:day/:title.html
 
-copyright: 2018
+copyright: 2018晋ICP备16011602号
 record: ""
 
 coderay:
