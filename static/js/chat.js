@@ -97,7 +97,7 @@ blog.addLoadEvent(function () {
             return;
         }
         if (!blog.tmaize && name.toLowerCase().indexOf('tmaize') != -1) {
-            alert('昵称禁止包含TMaize')
+            alert('昵称禁止包含Berbie')
             return;
         }
         if (email != '' && (email.length > 50 || !emailCheck.test(email))) {
