@@ -1,20 +1,20 @@
 encoding: utf-8
 
 # seo
-title:Bo'bie
+title:Berbie
 description: 
-keywords:Bo'bie,PHP,HTML5,JavaScript,Js
-author: Bo'bie
+keywords:Berbie,PHP,HTML5,JavaScript,Js
+author: Berbie
 
 # "","/blog"
 context: ""
-"siteMapPrefix": "t"
+"siteMapPrefix": "http://www.wjinbo.com"
 
 ## 文章url前缀 context/自定义，下面的context为''
 permalink: /posts/:year/:month/:day/:title.html
 
-copyright: 2018晋ICP备16011602号
-record: ""
+copyright: 2018
+record: "晋ICP备16011602号"
 
 coderay:
   coderay_tab_width: 4
