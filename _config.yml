@@ -1,0 +1,20 @@
+encoding: utf-8
+
+# seo
+title: BerBie Blog
+description: BerBie Blog
+keywords: BerBie,PHP,Html4,Css,Js,Mysql
+author: BerBie
+
+# "","/blog"
+context: ""
+"siteMapPrefix": "http://www.wjinbo.com/"
+
+## 文章url前缀 context/自定义，下面的context为''
+permalink: /posts/:year/:month/:day/:title.html
+
+copyright: 2018
+record: "晋ICP备16011602号"
+
+coderay:
+  coderay_tab_width: 4
