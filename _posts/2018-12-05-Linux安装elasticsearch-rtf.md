@@ -61,20 +61,7 @@ passwd 用户名 回车输入密码
 chown 用户名 文件夹 -R   更改文件所属
 
 非root用户运行 bin/elasticsearch -d
-[kkk@VM_0_9_centos elasticsearch]# curl localhost:9200
-{
-  "name" : "zZimIPO",
-  "cluster_name" : "elasticsearch",
-  "cluster_uuid" : "jduGCIaJR6mTWpVZm7uhvw",
-  "version" : {
-    "number" : "5.1.1",
-    "build_hash" : "5395e21",
-    "build_date" : "2016-12-06T12:36:15.409Z",
-    "build_snapshot" : false,
-    "lucene_version" : "6.3.0"
-  },
-  "tagline" : "You Know, for Search"
-}
+![p1](success.png)
 
 
 
