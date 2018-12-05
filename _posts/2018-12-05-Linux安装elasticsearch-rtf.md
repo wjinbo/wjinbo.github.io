@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Linux安装elasticsearch-rtf 
-categories: [Linux]
+categories: [elasticsearch]
 ---
 
 安装包下载 github地址：https://github.com/medcl/elasticsearch-rtf
